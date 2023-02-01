@@ -5,3 +5,9 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/MezesLaci/01_project_Frontend05.git
 git push -u origin main
+
+
+git add index.html
+git commit -m "first commit"
+git push -u origin main
+git push -u origin main
