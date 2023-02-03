@@ -9,7 +9,7 @@ body{
 .branding{
     display: flex;
     align-items: center;
-    margin-bottom: 20px;
+    margin: 20px;
 }
 .icon{
     max-height: 100px ;
